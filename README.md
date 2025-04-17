@@ -37,10 +37,10 @@
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fadedmariogold&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NihalAshraf&show_icons=true&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadedmariogold&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NihalAshraf&layout=compact&theme=radical" />
 </p>
 
 ---
